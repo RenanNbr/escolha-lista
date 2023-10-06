@@ -1,0 +1,14 @@
+li{
+    font-style: italic;
+    margin: 0 -10px;
+    
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+button{
+    cursor: pointer;
+}
+
